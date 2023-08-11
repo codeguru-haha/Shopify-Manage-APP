@@ -1,2 +1,2 @@
-ShopifyAPI==12.3.0
+shopifyapi ==12.3.0
 
