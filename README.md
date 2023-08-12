@@ -23,7 +23,7 @@ python "shopify inventory management.py"
 From this running you can control the shopify product's properties.
 
 
-5. Run the app onto a Shopify test store, you can manage the all property of product using CSV file, following [these](https://github.com/StarSolution1221/Shopify-Manage-APP#product-management)
+4. Run the app onto a Shopify test store, you can manage the all property of product using CSV file, following [these](https://github.com/StarSolution1221/Shopify-Manage-APP#product-management)
 
 
 ### `config.py`
@@ -37,23 +37,23 @@ You can make any changes to this CSV file and upload it to your Shopify store us
 
 ## Recieve Admin API Key
 
-Whatever you use to host your app, you have to login to https://shopify.com (https://admin.shopify.com/store/{SHOPIFY NAME}). From this window you can set the app and admin api key etc. as following steps
+Whatever you use to host your app, you have to login to https://shopify.com (https://admin.shopify.com/store/{SHOPIFY_NAME}). From this window you can set the app and admin api key etc. as following steps
 
-![](images/img1.png)
+![](image/img1.png)
 
-![](images/img2.png)
+![](image/img2.png)
 
-![](images/img3.png)
+![](image/img3.png)
 
-![](images/img4.png)
+![](image/img4.png)
 
-![](images/img5.png)
+![](image/img5.png)
 
-![](images/img6.png)
+![](image/img6.png)
 
-![](images/img7.png)
+![](image/img7.png)
 
-![](images/img8.png)
+![](image/img8.png)
 
 Your `config` file can be fully configured! You should now run the app.
 
